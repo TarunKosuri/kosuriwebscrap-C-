@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KsQfHlZRl6XisGp4B22LUNtyrB8Xe2x1JZPv3XH1igh5psNKPFp74O5Zk1dmaYGoVDVEYXUtlPDklw85V4E8/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iray\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iray\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\iray\\.nuget\\packages\\htmlagilitypack\\1.11.51\\htmlagilitypack.1.11.51.nupkg.sha512",
+    "C:\\Users\\iray\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\iray\\.nuget\\packages\\selenium.webdriver\\4.11.0\\selenium.webdriver.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
